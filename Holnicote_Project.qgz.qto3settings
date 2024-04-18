@@ -1,0 +1,1488 @@
+{
+  "CAMERA": "PERSPECTIVE",
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "ASPECT_RECLASS_cafd7d7e_5443_4a9c_8b52_49e354a86b3c": {
+        "enabled": true,
+        "groups": []
+      },
+      "Aller_7d705fe0_7897_436e_93b9_05b9ab62b952": {
+        "enabled": true,
+        "groups": []
+      },
+      "Aspect_Slope_Map_c23d9d82_21ea_478c_80b2_349526c94bbe": {
+        "enabled": true,
+        "groups": []
+      },
+      "Clipped_LiDAR_a0ec9a26_5f7d_4e23_a37e_d1e3f9b11973": {
+        "enabled": true,
+        "groups": []
+      },
+      "Depressionless_DTM_08e8483f_a51f_4fec_844e_267e7ca4261a": {
+        "enabled": true,
+        "groups": []
+      },
+      "Depressionless_DTM_clipped_c232e869_cbd3_4a6e_9895_d08cdb2a2152": {
+        "enabled": true,
+        "groups": []
+      },
+      "Depressionless_DTM_fb40b86b_15e1_4a7b_b358_56e110d7c753": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_08c1b749_ca4a_452b_9e70_5b22e8b1f812": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_1eab7ff7_95f3_4f5a_976c_28b9a48e25f3": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_1fc3ad2e_ae43_4ef0_9f74_41892b8929ed": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_24ceac97_cb65_4758_a276_f2c756435135": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_254f904e_d337_40be_9fde_5d27db1b3d28": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_27ef3c39_e0e5_40e8_b066_c297095f6079": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_30f2113f_8de2_4970_b8db_103114d37b64": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_32b8a231_d3b4_443d_b364_431e350bdfd9": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_330c622d_bb9e_4bcd_a187_a66b8a4148f4": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_372b2314_c652_4776_8257_45d7ca37fa81": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_3e122b2c_c208_4c0f_bd51_61c5927d9336": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_41129a8c_b752_40a6_8d48_ac01e7f00c22": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_467c0a76_419f_4dc9_b961_eed41c23dac9": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_4b67c675_0af9_41b1_91e7_c7db042acf10": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_4f10c467_0d5e_4310_8d4d_35fe66557dcf": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_5e5c3907_39fd_4ca1_86c3_5a7cfa6ba27a": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_5e9701fd_3db0_4f4d_b366_7442c6495224": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_6b1a9958_a001_4685_a259_7bf5a21490f0": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_6d3d64b0_3fcc_4e58_a9ca_a6a4e4fd3f0f": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_6dfbd211_8c61_42fe_8a3a_8c7472b6db10": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_7599168c_d565_45ea_8a20_c80d1037c79f": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_761b7f56_9855_4090_8a6b_540347715e79": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_7905d201_92b6_473d_8e74_a67425bc30c3": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_7925e601_1b48_4c24_99b1_874e6ffe4923": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_7b9b1f79_ad61_4d5f_89fa_bd2aeacd489c": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_8a663e4d_5ee6_4eb1_9b9a_7143680b1264": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_8d23360d_c91e_4668_9ebb_4fb0c07510ee": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_901decc9_be29_45d9_9fb0_aa05e6786520": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_92d60c88_7eb4_4591_bf71_3df6d68a0b5e": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_9e13a424_2eb3_418a_9a07_62942011e91c": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_a1e365ab_d1ed_4c03_89d4_0ee7b17b5619": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_a3342b5a_ad7c_449c_bd78_696ff80627ad": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_a9e981eb_ad23_4994_839b_4aeb8a201369": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_b2c8ab6b_84e5_4f7d_939d_7d2e78ac7cbf": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_c5867f0c_26aa_46eb_8827_3e1d4fec8eea": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_d1a9b0ef_0583_4131_ac97_fcfeafe30672": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_d3f19566_f619_49d5_8c49_0536931e25da": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_d53c737a_2ee4_484e_9e9e_e5c9f37c7ed6": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_df0a4894_787e_4286_82ca_0cb8490379f4": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_e039fd4e_78a0_4ee3_b837_85b8f99ef420": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_e0850d44_ae37_4480_b0f5_73746dba8493": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_e251d783_d79d_4660_b4e0_c070ff165159": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_e28f06cf_1cc3_467c_8833_7794937e6aa3": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_e4db2610_1fb2_4e74_8880_adbecec39213": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_e50f493a_8385_4f35_9e5d_92e98f6439d5": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_ed1ebd53_0dbc_4715_96f2_8c630530be34": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_f8816be5_734f_4f0d_ab21_005e79fd74a9": {
+        "enabled": true,
+        "groups": []
+      },
+      "Dissolved_fc21f0e1_6497_495c_8f2e_cd48a6dbb1b2": {
+        "enabled": true,
+        "groups": []
+      },
+      "Half_basins_2fc6f584_418e_40f0_b125_59eb85c24f82": {
+        "enabled": true,
+        "groups": []
+      },
+      "Half_basins_42a6d0e8_eb62_40d6_bfe5_b5a806aa4c04": {
+        "enabled": true,
+        "groups": []
+      },
+      "Merged_202310a4_94a2_41f5_8be4_d63b7a14c88c": {
+        "enabled": true,
+        "groups": []
+      },
+      "Merged_48aa6737_c40a_4a87_85d9_e2a84d1a12a9": {
+        "enabled": true,
+        "groups": []
+      },
+      "Merged_8f8fdf31_b6f0_49f0_af07_c5a1eeaec02f": {
+        "enabled": true,
+        "groups": []
+      },
+      "Merged_LiDAR_31e538c2_7d81_4275_bd69_517ebfa42aab": {
+        "enabled": true,
+        "groups": []
+      },
+      "Merged_bfc45135_5db1_47e3_b094_5cde508bddae": {
+        "enabled": true,
+        "groups": []
+      },
+      "Merged_ce2f6463_2826_46af_bb04_c3998942513a": {
+        "enabled": true,
+        "groups": []
+      },
+      "POST_ASPECT_e29b0d62_5799_403f_93dd_2ecc490789e3": {
+        "enabled": true,
+        "groups": []
+      },
+      "POST_SLOPE_faff322c_8ed0_437d_8c11_3681059e8688": {
+        "enabled": true,
+        "groups": []
+      },
+      "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733": {
+        "enabled": true,
+        "groups": []
+      },
+      "Post_Extent_cbc06415_1b5c_44f9_a50f_dc5f8f75a175": {
+        "enabled": true,
+        "groups": []
+      },
+      "PostrestorationPoly_9ab14019_e328_493c_8f7c_7ed28177cfa3": {
+        "enabled": true,
+        "groups": []
+      },
+      "Postrestoration_9b27a759_d056_4a06_ab78_bf25d470d0cb": {
+        "enabled": true,
+        "groups": []
+      },
+      "Postrestoration_Wetland_Extent_5f1b015e_a872_49d0_9b26_d8df0e7bfe78": {
+        "enabled": true,
+        "groups": []
+      },
+      "PreRestoration_Catchments_93afe4f3_9085_4417_8da6_841fc027e5be": {
+        "enabled": true,
+        "groups": []
+      },
+      "Prerestoration_26dffb34_88d6_48ff_9333_e1168f323aaf": {
+        "enabled": true,
+        "groups": []
+      },
+      "Prerestoration_Wetland_Extent_b070d1c1_9b50_442b_a5a8_685398c934f4": {
+        "enabled": true,
+        "groups": []
+      },
+      "PrestorationPoly_511f113c_e67c_44e8_9b20_93814684221f": {
+        "enabled": true,
+        "groups": []
+      },
+      "PrestorationPoly_efa6417a_88b3_4b87_b3e3_31e6faf0ea9e": {
+        "enabled": true,
+        "groups": []
+      },
+      "SLOPE_RECLASS_7d730106_8a5a_4d4d_8b2a_927b376697e4": {
+        "enabled": true,
+        "groups": []
+      },
+      "Stream_segments_d218486c_912c_4e18_897b_7aaa0c50f451": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:bb6ae8f8": {
+        "enabled": true,
+        "groups": []
+      },
+      "half_basin_d4785cf5_3e43_4a23_b5d1_46a7699c0704": {
+        "enabled": true,
+        "groups": []
+      },
+      "shape_3bab73f8_84ec_45a1_959b_4fa50ca8a676": {
+        "enabled": true,
+        "groups": []
+      },
+      "stream_a23dd635_9d62_4178_a004_29e3c672c199": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "Post_Extent_cbc06415_1b5c_44f9_a50f_dc5f8f75a175",
+      "name": "Post_Extent",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Aspect_Slope_Map_c23d9d82_21ea_478c_80b2_349526c94bbe",
+      "name": "Aspect_Slope_Map",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "201a9376",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "201a9376",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "SLOPE_RECLASS_7d730106_8a5a_4d4d_8b2a_927b376697e4",
+      "name": "SLOPE_RECLASS",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Post_Extent_cbc06415_1b5c_44f9_a50f_dc5f8f75a175",
+        "horizontalSlider_DEMSize": 4,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "6d747f2c",
+            "name": "map (canvas)",
+            "properties": {
+              "checkBox_Shading": true,
+              "checkBox_TransparentBackground": false,
+              "comboBox_TextureSize": "4096",
+              "radioButton_PNG": true,
+              "spinBox_Opacity": 100
+            },
+            "type": 0
+          }
+        ],
+        "mtlId": "6d747f2c",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "ASPECT_RECLASS_cafd7d7e_5443_4a9c_8b52_49e354a86b3c",
+      "name": "ASPECT_RECLASS",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "898a033c",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "898a033c",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "POST_SLOPE_faff322c_8ed0_437d_8c11_3681059e8688",
+      "name": "POST_SLOPE",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "99c04286",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "99c04286",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "POST_ASPECT_e29b0d62_5799_403f_93dd_2ecc490789e3",
+      "name": "POST_ASPECT",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "19b6230b",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "19b6230b",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Depressionless_DTM_fb40b86b_15e1_4a7b_b358_56e110d7c753",
+      "name": "Depressionless_DTM",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "181bf0c4",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "181bf0c4",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Depressionless_DTM_clipped_c232e869_cbd3_4a6e_9895_d08cdb2a2152",
+      "name": "Depressionless_DTM_clipped",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "12ddd7a4",
+            "name": "map (canvas)",
+            "properties": {
+              "checkBox_Shading": true,
+              "checkBox_TransparentBackground": false,
+              "comboBox_TextureSize": "1024",
+              "radioButton_PNG": true,
+              "spinBox_Opacity": 100
+            },
+            "type": 0
+          }
+        ],
+        "mtlId": "12ddd7a4",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "half_basin_d4785cf5_3e43_4a23_b5d1_46a7699c0704",
+      "name": "Half-basins",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "ef66f728",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "ef66f728",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "stream_a23dd635_9d62_4178_a004_29e3c672c199",
+      "name": "Stream segments",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Post_Extent_cbc06415_1b5c_44f9_a50f_dc5f8f75a175",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "acaa81b6",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "acaa81b6",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Postrestoration_9b27a759_d056_4a06_ab78_bf25d470d0cb",
+      "name": "Postrestoration",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+      "name": "PostRestoration_Catchments",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Prerestoration_26dffb34_88d6_48ff_9333_e1168f323aaf",
+      "name": "Prerestoration",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "PreRestoration_Catchments_93afe4f3_9085_4417_8da6_841fc027e5be",
+      "name": "PreRestoration_Catchments",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_372b2314_c652_4776_8257_45d7ca37fa81",
+      "name": "PostCatchment1",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Merged_48aa6737_c40a_4a87_85d9_e2a84d1a12a9",
+      "name": "PostCatchment2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Merged_bfc45135_5db1_47e3_b094_5cde508bddae",
+      "name": "PostCatchment3",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_c5867f0c_26aa_46eb_8827_3e1d4fec8eea",
+      "name": "PostCatchment4",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_1fc3ad2e_ae43_4ef0_9f74_41892b8929ed",
+      "name": "PostCatchment5",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_30f2113f_8de2_4970_b8db_103114d37b64",
+      "name": "PostCatchment6",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Merged_ce2f6463_2826_46af_bb04_c3998942513a",
+      "name": "PostCatchment7",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_d3f19566_f619_49d5_8c49_0536931e25da",
+      "name": "PostCatchment8",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_467c0a76_419f_4dc9_b961_eed41c23dac9",
+      "name": "PostCatchment9",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_32b8a231_d3b4_443d_b364_431e350bdfd9",
+      "name": "PostCatchment10",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_b2c8ab6b_84e5_4f7d_939d_7d2e78ac7cbf",
+      "name": "PostCatchment11",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_8d23360d_c91e_4668_9ebb_4fb0c07510ee",
+      "name": "PostCatchment12",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_3e122b2c_c208_4c0f_bd51_61c5927d9336",
+      "name": "PostCatchment13",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_4f10c467_0d5e_4310_8d4d_35fe66557dcf",
+      "name": "PostCatchment14",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_254f904e_d337_40be_9fde_5d27db1b3d28",
+      "name": "PostCatchment15",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_41129a8c_b752_40a6_8d48_ac01e7f00c22",
+      "name": "PostCatchment16",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_e0850d44_ae37_4480_b0f5_73746dba8493",
+      "name": "PostCatchment17",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_fc21f0e1_6497_495c_8f2e_cd48a6dbb1b2",
+      "name": "PostCatchment18",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_e28f06cf_1cc3_467c_8833_7794937e6aa3",
+      "name": "PostCatchment19",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_7905d201_92b6_473d_8e74_a67425bc30c3",
+      "name": "PostCatchment20",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_761b7f56_9855_4090_8a6b_540347715e79",
+      "name": "PostCatchment21",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_6b1a9958_a001_4685_a259_7bf5a21490f0",
+      "name": "PostCatchment22",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_a9e981eb_ad23_4994_839b_4aeb8a201369",
+      "name": "PostCatchment23",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_e50f493a_8385_4f35_9e5d_92e98f6439d5",
+      "name": "PostCatchment24",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Merged_202310a4_94a2_41f5_8be4_d63b7a14c88c",
+      "name": "PostCatchment25",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_ed1ebd53_0dbc_4715_96f2_8c630530be34",
+      "name": "PostCatchment26",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_e4db2610_1fb2_4e74_8880_adbecec39213",
+      "name": "PostCatchment27",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_08c1b749_ca4a_452b_9e70_5b22e8b1f812",
+      "name": "PostCatchment28",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_6dfbd211_8c61_42fe_8a3a_8c7472b6db10",
+      "name": "PostCatchment29",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_a1e365ab_d1ed_4c03_89d4_0ee7b17b5619",
+      "name": "PostCatchment30",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_df0a4894_787e_4286_82ca_0cb8490379f4",
+      "name": "PostCatchment31",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_e251d783_d79d_4660_b4e0_c070ff165159",
+      "name": "PostCatchment32",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_9e13a424_2eb3_418a_9a07_62942011e91c",
+      "name": "PostCatchment33",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_24ceac97_cb65_4758_a276_f2c756435135",
+      "name": "PostCatchment34",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_901decc9_be29_45d9_9fb0_aa05e6786520",
+      "name": "PostCatchment35",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_330c622d_bb9e_4bcd_a187_a66b8a4148f4",
+      "name": "PostCatchment36",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_f8816be5_734f_4f0d_ab21_005e79fd74a9",
+      "name": "PostCatchment37",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_7b9b1f79_ad61_4d5f_89fa_bd2aeacd489c",
+      "name": "PostCatchment38",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "PostrestorationPoly_9ab14019_e328_493c_8f7c_7ed28177cfa3",
+      "name": "PostrestorationPoly",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_7925e601_1b48_4c24_99b1_874e6ffe4923",
+      "name": "PreCatchment1",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_d53c737a_2ee4_484e_9e9e_e5c9f37c7ed6",
+      "name": "PreCatchment2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_1eab7ff7_95f3_4f5a_976c_28b9a48e25f3",
+      "name": "PreCatchment3",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_92d60c88_7eb4_4591_bf71_3df6d68a0b5e",
+      "name": "PreCatchment4",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_a3342b5a_ad7c_449c_bd78_696ff80627ad",
+      "name": "PreCatchment5",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_5e9701fd_3db0_4f4d_b366_7442c6495224",
+      "name": "PreCatchment6",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Merged_8f8fdf31_b6f0_49f0_af07_c5a1eeaec02f",
+      "name": "PreCatchment7",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_8a663e4d_5ee6_4eb1_9b9a_7143680b1264",
+      "name": "PreCatchment8",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_4b67c675_0af9_41b1_91e7_c7db042acf10",
+      "name": "PreCatchment9",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_5e5c3907_39fd_4ca1_86c3_5a7cfa6ba27a",
+      "name": "PreCatchment10",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_7599168c_d565_45ea_8a20_c80d1037c79f",
+      "name": "PreCatchment11",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_d1a9b0ef_0583_4131_ac97_fcfeafe30672",
+      "name": "PreCatchment12",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_6d3d64b0_3fcc_4e58_a9ca_a6a4e4fd3f0f",
+      "name": "PreCatchment13",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_27ef3c39_e0e5_40e8_b066_c297095f6079",
+      "name": "PreCatchment14",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Dissolved_e039fd4e_78a0_4ee3_b837_85b8f99ef420",
+      "name": "PreCatchment15",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "PrestorationPoly_efa6417a_88b3_4b87_b3e3_31e6faf0ea9e",
+      "name": "PrestorationPoly",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Half_basins_42a6d0e8_eb62_40d6_bfe5_b5a806aa4c04",
+      "name": "Half-basins",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Half_basins_2fc6f584_418e_40f0_b125_59eb85c24f82",
+      "name": "Half-basins",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Postrestoration_Wetland_Extent_5f1b015e_a872_49d0_9b26_d8df0e7bfe78",
+      "name": "Postrestoration_Wetland_Extent",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "PrestorationPoly_511f113c_e67c_44e8_9b20_93814684221f",
+      "name": "PrestorationPoly",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Prerestoration_Wetland_Extent_b070d1c1_9b50_442b_a5a8_685398c934f4",
+      "name": "Prerestoration_Wetland_Extent",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "shape_3bab73f8_84ec_45a1_959b_4fa50ca8a676",
+      "name": "shape",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Stream_segments_d218486c_912c_4e18_897b_7aaa0c50f451",
+      "name": "Stream_segments",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Post_Extent_cbc06415_1b5c_44f9_a50f_dc5f8f75a175",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "79a5110d",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "79a5110d",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Depressionless_DTM_08e8483f_a51f_4fec_844e_267e7ca4261a",
+      "name": "Depressionless_DTM",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Post_Extent_cbc06415_1b5c_44f9_a50f_dc5f8f75a175",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "2b9e45d5",
+            "name": "map (canvas)",
+            "properties": {
+              "checkBox_Shading": true,
+              "checkBox_TransparentBackground": false,
+              "comboBox_TextureSize": "1024",
+              "radioButton_PNG": true,
+              "spinBox_Opacity": 100
+            },
+            "type": 0
+          }
+        ],
+        "mtlId": "2b9e45d5",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Clipped_LiDAR_a0ec9a26_5f7d_4e23_a37e_d1e3f9b11973",
+      "name": "Clipped LiDAR",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "PostRestoration_Catchments_f0e6fdc2_e059_4ca7_8fa6_35871acf5733",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "02c9b136",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "02c9b136",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "Merged_LiDAR_31e538c2_7d81_4275_bd69_517ebfa42aab",
+      "name": "Merged_LiDAR",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Post_Extent_cbc06415_1b5c_44f9_a50f_dc5f8f75a175",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "aa5e043c",
+            "name": "map (canvas)",
+            "properties": {
+              "checkBox_Shading": true,
+              "checkBox_TransparentBackground": false,
+              "comboBox_TextureSize": "1024",
+              "radioButton_PNG": true,
+              "spinBox_Opacity": 100
+            },
+            "type": 0
+          }
+        ],
+        "mtlId": "aa5e043c",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Aller_7d705fe0_7897_436e_93b9_05b9ab62b952",
+      "name": "Aller",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:bb6ae8f8",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "SCENE": {
+    "checkBox_FixAspectRatio": false,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 1,
+    "comboBox_xyShift": false,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "292016.6101656173",
+    "lineEdit_CenterY": "145563.46293382437",
+    "lineEdit_Height": "1214.154753252049",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "1456.2006900534034",
+    "lineEdit_zFactor": "-1",
+    "slider_Fog": 41
+  },
+  "Version": 20703
+}
